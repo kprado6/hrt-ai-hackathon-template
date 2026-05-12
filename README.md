@@ -16,14 +16,15 @@ This project was created to allow the public to navigate which parks free recrea
 
 
 ## Usage
-1. Open the application
+1. Open the application - The dashboard loads with an event map and an event schedule
 
-2. Select Filter
-3. View Mobile Recreation locations
-5. Select a location for more details
+2. Select Filter - Each event can be filtered by month
+3. View Mobile Recreation locations - Locations will appear based on filter selected
+5. Select a location for more details - Each location shows the park name, the date of the event, the time and the adress of the park
 
 
 ## Built With
 
 - Github
-- Claude
+- Claude Code
+- Streamlit
