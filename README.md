@@ -1,49 +1,29 @@
-# 🎉 HRT AI Hackathon Template
+# Mobile Recreation Park Tour
 
-A GitHub Codespace template for the Hospitality, Recreation, and Tourism (HRT) Applied Research Hackathon. Build a working Streamlit prototype with Claude — no coding experience required.
+The Mobile Recreation Park Tour allows users to view the locations, dates, and times where the City of Clovis Recreation Department will bring its mobile recreation trailer.
 
-## Getting Started
+## Features
 
-1. Click **Code** → **Create Codespace on main**
-2. Wait for the environment to set up (1~5 min). The terminal will tell you when everything is ready.
-3. Click the **Claude** (orange star) icon at the top right corner
-4. Sign in with your **Claude Team** account
-5. Tell Claude what you want to build! For example:
-   > "Build a dashboard that shows hotel occupancy by city."
+1. Live map allows users to navigate to park locations.
 
-## Claude Commands
+2. Organizes locations by month
+3. Displays event time frames for each location
 
-Type these in the Claude Code chat at any time:
+## Purpose
 
-| Command | What it does |
-|---------|-------------|
-| `/run` | Start your app and give you a clickable link to view it |
-| `/checkpoint` | Save your current progress |
-| `/back-to-checkpoint` | Restore to your last saved checkpoint |
-| `/restart` | Reset everything back to the very beginning |
-| `/write-readme` | Generate a README based on your current app |
-| `/push` | Publish your project to your own GitHub for your portfolio |
-| `/handoff` | Write a session summary to pick up later |
-| `/resume` | Load the previous session summary |
+This project was created to allow the public to navigate which parks free recreation is offered in local parks. The pinned locations help users easily view recreation event locations, schedules and details through an interactive map. 
 
-## What's Inside
 
-| File / Folder | Purpose |
-|---------------|---------|
-| `app.py` | Your Streamlit app — Claude writes all code here |
-| `CLAUDE.md` | Instructions that guide Claude's behavior |
-| `requirements.txt` | Python dependencies (Streamlit, Pandas) |
-| `data/` | Place your own datasets here (CSV, etc.) |
-| `data_ai/` | Claude saves any generated or crawled data here |
 
-## Uploading Your Own Data
+## Usage
+1. Open the application
 
-1. In the left sidebar, right-click the `data/` folder
-2. Select **Upload...**
-3. Choose your file
+2. Select Filter
+3. View Mobile Recreation locations
+5. Select a location for more details
 
-CSV files will automatically open as a table when you click them.
 
----
+## Built With
 
-**Have fun building!** 🚀
+- Github
+- Claude
