@@ -39,3 +39,8 @@ This project was created to help the public to navigate which parks free recreat
 - Add a feature that allows community members to upload and share photos from events
 - Implement an approval/moderation system so submitted photos can be reviewed before appearing in the app
 - Create a gallery section where users can view highlights and experiences from past events
+
+## Author
+
+Kelsie Prado,
+Cal State University East Bay, MS HRT Student
